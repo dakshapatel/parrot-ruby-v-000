@@ -7,3 +7,5 @@ def parrot(phrase, default_phrase= "Squawk!" )
   "Pretty bird!"
 
 end
+
+parrot
