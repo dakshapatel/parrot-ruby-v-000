@@ -2,10 +2,8 @@
 # returns the phrase
 
 
-def parrot(phrase, default_phrase= "Squawk!")
-
+def parrot
+ puts "Squawk!"
 
 
 end
-
-parrot ("Pretty bird!")
