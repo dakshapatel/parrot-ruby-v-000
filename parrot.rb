@@ -4,6 +4,10 @@
 
 def parrot
  puts "Squawk!"
-
-
 end
+
+def parrot(phrase)
+  #{phrase}
+end
+
+parrot("Pretty bird!")
