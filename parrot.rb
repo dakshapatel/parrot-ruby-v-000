@@ -6,4 +6,4 @@ def parrot(phrase, default_phrase= "Squawk!" )
 
 end
 
-parrot
+parrot("this")
