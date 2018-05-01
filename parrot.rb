@@ -2,7 +2,8 @@
 # returns the phrase
 
 
-def parrot
- puts "Squawk!"
- phrase = "Pretty bird!"
+def parrot(phrase, default_phrase= "Squawk!" )
+
 end
+
+parrot
